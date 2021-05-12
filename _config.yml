@@ -100,6 +100,7 @@ author:
   bio              : "I am study to FullStack."
   location         : "Korea"
   email            : bro89977@gmail.com
+  github           : https://github.com/mee06618
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
